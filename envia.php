@@ -11,8 +11,8 @@ $mensagem_form = $_POST['mensagem'];
 $assunto = $_POST['assunto'];
  
 /* Destinatário e remetente - EDITAR SOMENTE ESTE BLOCO DO CÓDIGO */
-$to = "email@dominio";
-$remetente = "email@seu-dominio"; // Deve ser um email válido do domínio
+$to = "wpradoseg6819@gmail.com";
+$remetente = "wpradoseg6819@gmail.com"; // Deve ser um email válido do domínio
  
 /* Cabeçalho da mensagem  */
 $boundary = "XYZ-" . date("dmYis") . "-ZYX";
